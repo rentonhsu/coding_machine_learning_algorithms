@@ -1,0 +1,17 @@
+Adobe After Effects v15.1.1 Windows 64 render log for project “作圖.aep”
+
+Rendering started on 2018/12/10 at 上午 10:55:00
+
+  2018/12/10 上午 10:55:00: Starting composition “Comp 2”.
+
+  Output To: C:\Users\User\Documents\GitHub\coding_machine_learning_algorithms\day1_data_scaling\images\Comp 2 (0;00;00;00).psd    2018/12/10 上午 10:55:00: Finished composition “Comp 2”.
+
+
+  2018/12/10 上午 10:55:00: Starting composition “Comp 3”.
+
+  Output To: C:\Users\User\Documents\GitHub\coding_machine_learning_algorithms\day1_data_scaling\images\section_2\train_test.png    2018/12/10 上午 10:55:00: Finished composition “Comp 3”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 2018/12/10 at 上午 10:55:00
+
